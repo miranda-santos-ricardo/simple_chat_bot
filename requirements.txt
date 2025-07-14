@@ -1,2 +1,4 @@
 transformers==4.30.2 
 torch
+Flask
+Flask-Cors
